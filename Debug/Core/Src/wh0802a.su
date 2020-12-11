@@ -1,0 +1,14 @@
+wh0802a.c:14:6:wh0802aPutClock	8	static
+wh0802a.c:26:6:wh0802aPutNibble	12	static
+wh0802a.c:47:6:wh0802aPutByte	8	static
+wh0802a.c:56:6:wh0802aPutData	8	static
+wh0802a.c:65:6:wh0802aPutCommand	8	static
+wh0802a.c:75:6:wh0802aInitDisplay	8	static
+wh0802a.c:96:7:wh0802aSetTextMode	8	static
+wh0802a.c:102:6:wh0802aClearScreen	8	static
+wh0802a.c:110:6:wh0802aReturnHome	8	static
+wh0802a.c:117:6:wh0802aStandby	8	static
+wh0802a.c:124:6:wh0802aGoToLC	8	static
+wh0802a.c:147:6:wh0802aPutString	16	static
+wh0802a.c:159:6:wh0802aPutChar	8	static
+wh0802a.c:268:6:wh0802aSetGraphicsMode	8	static

@@ -1,0 +1,8 @@
+Input.c:29:6:InputsConfigure	24	static
+Input.c:52:6:InputsInit	24	static
+Input.c:68:9:InputsGetState	0	static
+Input.c:84:10:InputsGetValue	0	static
+Input.c:96:9:InputGetValue	0	static
+Input.c:112:6:InputsAdcPeriodic	8	static
+Input.c:123:6:InputsPeriodic	24	static
+Input.c:168:6:HAL_ADC_ConvCpltCallback	24	static
