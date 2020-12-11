@@ -1,0 +1,3 @@
+-Gravar com ST-Link;
+-Alimentar com 12V para gravar;
+-Não tem numero de série.
